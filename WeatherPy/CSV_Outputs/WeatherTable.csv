@@ -1,5 +1,9 @@
-City,Temperature,Humidity,Cloudiness,Wind_Speed,Latitude,Longitude
-Paris,44.96,93,90,8.05,48.8534,2.3488
-Sydney,64.04,77,75,4.61,-33.8679,151.2073
-London,41.22,70,20,3.44,51.5085,-0.1257
-Sao Paulo,63.55,77,20,9.22,-23.5475,-46.6361
+City,Country,Temperature,Humidity,Cloudiness,Wind_Speed,Latitude,Longitude
+lebu,CL,55.38,96,100,12.95,-37.6167,-73.65
+bredasdorp,ZA,42.8,87,3,3.94,-34.5322,20.0403
+snezhnogorsk,RU,15.8,86,40,2.24,69.1933,33.2531
+broken hill,AU,78.8,34,0,10.36,-31.95,141.4333
+klaksvik,FO,35.6,80,20,3.44,62.2266,-6.589
+bluff,NZ,60.01,76,99,5.99,-46.6,168.3333
+hobart,AU,65.64,52,0,8.05,-42.8794,147.3294
+rikitea,PF,75.96,79,97,9.04,-23.1203,-134.9692
